@@ -1,14 +1,1404 @@
-sfasfsdf
-fd
-saf
-sd
-f
-ds
-f
-ds
-f
-sd
-sd
-
-sf
-da
+[
+    {
+        "devicename": "国际局", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "国际局", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.131.35:2323/dsc_1/client/#') style='cursor:hand'>JT-SH-XXY-HDRA-1.EPC</a>", 
+                "deviceip": "100.66.131.35", 
+                "nodename": "国际局", 
+                "devicename1": "JT-SH-XXY-HDRA-1.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.130.228:2323/dsc_1/client/#') style='cursor:hand'>JT-BJ-DS-HDRA-1.EPC</a>", 
+                "deviceip": "100.66.130.228", 
+                "nodename": "国际局", 
+                "devicename1": "JT-BJ-DS-HDRA-1.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "山东", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "山东", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.137:2323/mme_31/client/#') style='cursor:hand'>SD-JN-SN-MME-1.EPC</a>", 
+                "deviceip": "100.66.48.137", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.137:2323/mme_32/client/#') style='cursor:hand'>SD-QD-SN-MME-2.EPC</a>", 
+                "deviceip": "100.66.50.137", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.140:2323/rcp_42/client/#') style='cursor:hand'>SD-QD-SN-PCRF-2.EPC</a>", 
+                "deviceip": "100.66.50.140", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.140:2323/rcp_41/client/#') style='cursor:hand'>SD-JN-SN-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.48.140", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.134:2323/uspp_2/client/#') style='cursor:hand'>SD-QD-SN-HSS-2.EPC</a>", 
+                "deviceip": "100.66.50.134", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.134:2323/uspp_1/client/#') style='cursor:hand'>SD-JN-SN-HSS-1.EPC</a>", 
+                "deviceip": "100.66.48.134", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.157:2323/cg_52/client/#') style='cursor:hand'>SD-QD-SN-CG-2.EPC</a>", 
+                "deviceip": "100.66.50.157", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.157:2323/cg_51/client/#') style='cursor:hand'>SD-JN-SN-CG-1.EPC</a>", 
+                "deviceip": "100.66.48.157", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.134:2323/uspp_1/client/#') style='cursor:hand'>SD-JN-SN-AAA-1.EPC</a>", 
+                "deviceip": "100.66.48.134", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.134:2323/uspp_2/client/#') style='cursor:hand'>SD-QD-SN-AAA-2.EPC</a>", 
+                "deviceip": "100.66.50.134", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.48.180:2323/dsc_81/client/') style='cursor:hand'>SD-QD-SN-DRA-01.EPC</a>", 
+                "deviceip": "100.66.48.180", 
+                "nodename": "山东", 
+                "devicename1": "SD-QD-SN-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.50.180:2323/dsc_82/client/') style='cursor:hand'>SD-JN-SN-DRA-02.EPC</a>", 
+                "deviceip": "100.66.50.180", 
+                "nodename": "山东", 
+                "devicename1": "SD-JN-SN-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "云南", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "云南", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.24:2323/rcp_41/client/#') style='cursor:hand'>YN-KM-DH-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.96.24", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.24:2323/rcp_42/client/#') style='cursor:hand'>YN-KM-ES-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.97.24", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.17:2323/mme_32/client/#') style='cursor:hand'>YN-KM-ES-MME-2.EPC</a>", 
+                "deviceip": "100.66.97.17", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.17:2323/mme_31/client/#') style='cursor:hand'>YN-KM-DH-MME-1.EPC</a>", 
+                "deviceip": "100.66.96.17", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.12:2323/uspp_1/client/#') style='cursor:hand'>YN-KM-DH-AAA-1.EPC</a>", 
+                "deviceip": "100.66.96.12", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.12:2323/uspp_2/client/#') style='cursor:hand'>YN-KM-ES-AAA-2.EPC</a>", 
+                "deviceip": "100.66.97.12", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.6:2323/cg_51/client/#') style='cursor:hand'>YN-KM-DH-CG-1.EPC</a>", 
+                "deviceip": "100.66.96.6", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.6:2323/cg_52/client/#') style='cursor:hand'>YN-KM-ES-CG-2.EPC</a>", 
+                "deviceip": "100.66.97.6", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.12:2323/uspp_1/client/#') style='cursor:hand'>YN-KM-DH-HSS-1.EPC</a>", 
+                "deviceip": "100.66.96.12", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.12:2323/uspp_2/client/#') style='cursor:hand'>YN-KM-ES-HSS-2.EPC</a>", 
+                "deviceip": "100.66.97.12", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.96.52:2323/dsc_81/client/') style='cursor:hand'>YN-KM-ES-DRA-01.EPC</a>", 
+                "deviceip": "100.66.96.52", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-ES-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.97.52:2323/dsc_82/client/') style='cursor:hand'>YN-KM-DH-DRA-02.EPC</a>", 
+                "deviceip": "100.66.97.52", 
+                "nodename": "云南", 
+                "devicename1": "YN-KM-DH-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "贵州", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "贵州", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.134:2323/uspp_2/client/#') style='cursor:hand'>GZ-GY-JY-AAA-1.EPC</a>", 
+                "deviceip": "100.66.93.134", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.134:2323/uspp_1/client/#') style='cursor:hand'>GZ-GY-HM-AAA-1.EPC</a>", 
+                "deviceip": "100.66.92.134", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.140:2323/rcp_42/client/#') style='cursor:hand'>GZ-GY-JY-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.93.140", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.140:2323/rcp_41/client/#') style='cursor:hand'>GZ-GY-HM-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.92.140", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.134:2323/uspp_2/client/#') style='cursor:hand'>GZ-GY-JY-HSS-1.EPC</a>", 
+                "deviceip": "100.66.93.134", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.134:2323/uspp_1/client/#') style='cursor:hand'>GZ-GY-HM-HSS-1.EPC</a>", 
+                "deviceip": "100.66.92.134", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.157:2323/cg_52/client/#') style='cursor:hand'>GZ-GY-JY-CG-1.EPC</a>", 
+                "deviceip": "100.66.93.157", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.157:2323/cg_51/client/#') style='cursor:hand'>GZ-GY-HM-CG-1.EPC</a>", 
+                "deviceip": "100.66.92.157", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.137:2323/mme_32/client/#') style='cursor:hand'>GZ-GY-JY-MME-1.EPC</a>", 
+                "deviceip": "100.66.93.137", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.137:2323/mme_31/client/#') style='cursor:hand'>GZ-GY-HM-MME-1.EPC</a>", 
+                "deviceip": "100.66.92.137", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.92.179:2323/dsc_81/client/') style='cursor:hand'>GZ-GY-HM-DRA-01.EPC</a>", 
+                "deviceip": "100.66.92.179", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-HM-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.93.179:2323/dsc_82/client/') style='cursor:hand'>GZ-GY-JY-DRA-02.EPC</a>", 
+                "deviceip": "100.66.93.179", 
+                "nodename": "贵州", 
+                "devicename1": "GZ-GY-JY-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "江西", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "江西", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.218:2323/cg_51/client/#') style='cursor:hand'>JX-NC-EC-CG-1.EPC</a>", 
+                "deviceip": "100.66.69.218", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.218:2323/cg_52/client/#') style='cursor:hand'>JX-NC-RZ-CG-2.EPC</a>", 
+                "deviceip": "100.66.68.218", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-RZ-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.198:2323/uspp_1/client/#') style='cursor:hand'>JX-NC-EC-HSS-1.EPC</a>", 
+                "deviceip": "100.66.69.198", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.198:2323/uspp_2/client/#') style='cursor:hand'>JX-NC-RZ-HSS-2.EPC</a>", 
+                "deviceip": "100.66.68.198", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-RZ-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.198:2323/uspp_2/client/#') style='cursor:hand'>JX-NC-RZ-AAA-2.EPC</a>", 
+                "deviceip": "100.66.68.198", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-RZ-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.198:2323/uspp_1/client/#') style='cursor:hand'>JX-NC-EC-AAA-1.EPC</a>", 
+                "deviceip": "100.66.69.198", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.201:2323/mme_32/client/#') style='cursor:hand'>JX-NC-RZ-MME-1.EPC</a>", 
+                "deviceip": "100.66.68.201", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-RZ-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.201:2323/mme_31/client/#') style='cursor:hand'>JX-NC-EC-MME-2.EPC</a>", 
+                "deviceip": "100.66.69.201", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.245:2323/rcp_41/client/#') style='cursor:hand'>JX-NC-EC-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.69.245", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.245:2323/rcp_42/client/#') style='cursor:hand'>JX-NC-EC-PCRF-2.EPC</a>", 
+                "deviceip": "100.66.68.245", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.69.249:2323/dsc_81/client/ ') style='cursor:hand'>JX-NC-EC-DRA-01.EPC</a>", 
+                "deviceip": "100.66.69.249", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-EC-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.68.249:2323/dsc_82/client/') style='cursor:hand'>JX-NC-RZ-DRA-02.EPC</a>", 
+                "deviceip": "100.66.68.249", 
+                "nodename": "江西", 
+                "devicename1": "JX-NC-RZ-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "湖南", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "湖南", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.37.6:2323/uspp_2/client/#') style='cursor:hand'>HN-CS-DT-HSS-2.EPC</a>", 
+                "deviceip": "100.66.37.6", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.36.6:2323/uspp_1/client/#') style='cursor:hand'>HN-CS-HHY-HSS-1.EPC</a>", 
+                "deviceip": "100.66.36.6", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.37.6:2323/uspp_2/client/#') style='cursor:hand'>HN-CS-DT-AAA-2.EPC</a>", 
+                "deviceip": "100.66.37.6", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.36.6:2323/uspp_1/client/#') style='cursor:hand'>HN-CS-HHY-AAA-1.EPC</a>", 
+                "deviceip": "100.66.36.6", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.91:2323/rcp_42/client') style='cursor:hand'>HN-CS-DT-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.77.91", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.91:2323/rcp_41/client') style='cursor:hand'>HN-CS-HHY-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.76.91", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.37.9:2323/mme_32/client/#') style='cursor:hand'>HN-CS-DT-MME-1.EPC</a>", 
+                "deviceip": "100.66.37.9", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.36.9:2323/mme_31/client/#') style='cursor:hand'>HN-CS-HHY-MME-1.EPC</a>", 
+                "deviceip": "100.66.36.9", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.36.29:2323/cg_51/client/#') style='cursor:hand'>HN-CS-HHY-CG-1.EPC</a>", 
+                "deviceip": "100.66.36.29", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.37.29:2323/cg_52/client/#') style='cursor:hand'>HN-CS-DT-CG-2.EPC</a>", 
+                "deviceip": "100.66.37.29", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.36.49:2323/dsc_61/client/') style='cursor:hand'>HN-CS-HHY-DRA-01.EPC</a>", 
+                "deviceip": "100.66.36.49", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-HHY-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.37.49:2323/dsc_62/client/') style='cursor:hand'>HN-CS-DT-DRA-02.EPC</a>", 
+                "deviceip": "100.66.37.49", 
+                "nodename": "湖南", 
+                "devicename1": "HN-CS-DT-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "福建", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "福建", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.9:2323/mme_31/client/#') style='cursor:hand'>FJ-FZ-CX-MME-1.EPC</a>", 
+                "deviceip": "10.231.142.9", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.9:2323/mme_32/client/#') style='cursor:hand'>FJ-FZ-GMQ-MME-2.EPC</a>", 
+                "deviceip": "10.231.143.9", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.6:2323/uspp_1/client/#') style='cursor:hand'>FJ-FZ-CX-HSS-1.EPC</a>", 
+                "deviceip": "10.231.142.6", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.6:2323/uspp_2/client/#') style='cursor:hand'>FJ-FZ-GMQ-HSS-2.EPC</a>", 
+                "deviceip": "10.231.143.6", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.6:2323/uspp_2/client/#') style='cursor:hand'>FJ-FZ-GMQ-AAA-2.EPC</a>", 
+                "deviceip": "10.231.143.6", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.6:2323/uspp_1/client/#') style='cursor:hand'>FJ-FZ-CX-AAA-1.EPC</a>", 
+                "deviceip": "10.231.142.6", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.12:2323/rcp_41/client/#') style='cursor:hand'>FJ-FZ-CX-PCRF-1.EPC</a>", 
+                "deviceip": "10.231.142.12", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.12:2323/rcp_42/client/#') style='cursor:hand'>FJ-FZ-GMQ-PCRF-1.EPC</a>", 
+                "deviceip": "10.231.143.12", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.29:2323/cg_52/client/#') style='cursor:hand'>FJ-FZ-GMQ-CG-2.EPC</a>", 
+                "deviceip": "10.231.143.29", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.29:2323/cg_51/client/#') style='cursor:hand'>FJ-FZ-CX-CG-1.EPC</a>", 
+                "deviceip": "10.231.142.29", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.142.56:2323/dsc_81/client/') style='cursor:hand'>FJ-FZ-CX-DRA-01.EPC</a>", 
+                "deviceip": "10.231.142.56", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-CX-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.143.56:2323/dsc_82/client/') style='cursor:hand'>FJ-FZ-GMQ-DRA-02.EPC</a>", 
+                "deviceip": "10.231.143.56", 
+                "nodename": "福建", 
+                "devicename1": "FJ-FZ-GMQ-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "安徽", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "安徽", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.98:2323/cg_51/client/#') style='cursor:hand'>AH-HF-WLD-CG-1.EPC</a>", 
+                "deviceip": "10.231.119.98", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.226:2323/cg_52/client/#') style='cursor:hand'>AH-HF-DZL-CG-2.EPC</a>", 
+                "deviceip": "10.231.119.226", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.92:2323/uspp_1/client/#') style='cursor:hand'>AH-HF-WLD-HSS-1.EPC</a>", 
+                "deviceip": "10.231.119.92", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.220:2323/uspp_2/client/#') style='cursor:hand'>AH-HF-DZL-HSS-2.EPC</a>", 
+                "deviceip": "10.231.119.220", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.92:2323/uspp_1/client/#') style='cursor:hand'>AH-HF-WLD-AAA-1.EPC</a>", 
+                "deviceip": "10.231.119.92", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.220:2323/uspp_2/client/#') style='cursor:hand'>AH-HF-DZL-AAA-2.EPC</a>", 
+                "deviceip": "10.231.119.220", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.101:2323/rcp_41/client/#') style='cursor:hand'>AH-HF-WLD-PCRF-1.EPC</a>", 
+                "deviceip": "10.231.119.101", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.229:2323/rcp_42/client/#') style='cursor:hand'>AH-HF-DZL-PCRF-2.EPC</a>", 
+                "deviceip": "10.231.119.229", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.104:2323/mme_31/client/#') style='cursor:hand'>AH-HF-WLD-MME-1.EPC</a>", 
+                "deviceip": "10.231.119.104", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.232:2323/mme_32/client/#') style='cursor:hand'>AH-HF-DZL-MME-2.EPC</a>", 
+                "deviceip": "10.231.119.232", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.75:2323/dsc_81/client/') style='cursor:hand'>AH-HF-WLD-DRA-01.EPC</a>", 
+                "deviceip": "10.231.119.75", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-WLD-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.119.206:2323/dsc_82/client/') style='cursor:hand'>AH-HF-DZL-DRA-02.EPC</a>", 
+                "deviceip": "10.231.119.206", 
+                "nodename": "安徽", 
+                "devicename1": "AH-HF-DZL-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "内蒙古", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "内蒙古", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.198:2323/uspp_2/client/#') style='cursor:hand'>NM-HHHT-JQJH-AAA-2.EPC</a>", 
+                "deviceip": "100.66.16.198", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.70:2323/uspp_1/client/#') style='cursor:hand'>NM-HHHT-JQFZ-AAA-1.EPC</a>", 
+                "deviceip": "100.66.16.70", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.198:2323/uspp_2/client/#') style='cursor:hand'>NM-HHHT-JQJH-HSS-2.EPC</a>", 
+                "deviceip": "100.66.16.198", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.70:2323/uspp_1/client/#') style='cursor:hand'>NM-HHHT-JQFZ-HSS-1.EPC</a>", 
+                "deviceip": "100.66.16.70", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.93:2323/cg_50/client/#') style='cursor:hand'>NM-HHHT-JQFZ-CG-1.EPC</a>", 
+                "deviceip": "100.66.16.93", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.221:2323/cg_52/client/#') style='cursor:hand'>NM-HHHT-JQJH-CG-2.EPC</a>", 
+                "deviceip": "100.66.16.221", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.76:2323/rcp_41/client/#') style='cursor:hand'>NM-HHHT-JQFZ-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.16.76", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.204:2323/rcp_42/client/#') style='cursor:hand'>NM-HHHT-JQJH-PCRF-2.EPC</a>", 
+                "deviceip": "100.66.16.204", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.201:2323/mme_32/client/#') style='cursor:hand'>NM-HHHT-JQJH-MME-2.EPC</a>", 
+                "deviceip": "100.66.16.201", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.73:2323/mme_31/client/#') style='cursor:hand'>NM-HHHT-JQFZ-MME-1.EPC</a>", 
+                "deviceip": "100.66.16.73", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.124:2323/dsc_81/client/') style='cursor:hand'>NM-HHHT-JQFZ-DRA-01.EPC</a>", 
+                "deviceip": "100.66.16.124", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQFZ-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.16.244:2323/dsc_82/client/') style='cursor:hand'>NM-HHHT-JQJH-DRA-02.EPC</a>", 
+                "deviceip": "100.66.16.244", 
+                "nodename": "内蒙古", 
+                "devicename1": "NM-HHHT-JQJH-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "辽宁", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "辽宁", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.9:2323/mme_31/client/#') style='cursor:hand'>LN-SY-HN-MME-1.EPC</a>", 
+                "deviceip": "100.66.20.9", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.9:2323/mme_32/client/#') style='cursor:hand'>LN-DL-LHL-MME-1.EPC</a>", 
+                "deviceip": "100.66.23.9", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.29:2323/cg_51/client/#') style='cursor:hand'>LN-SY-HN-CG-1.EPC</a>", 
+                "deviceip": "100.66.20.29", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.29:2323/cg_52/client/#') style='cursor:hand'>LN-DL-LHL-CG-1.EPC</a>", 
+                "deviceip": "100.66.23.29", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.6:2323/uspp_1/client/#') style='cursor:hand'>LN-SY-HN-HSS-1.EPC</a>", 
+                "deviceip": "100.66.20.6", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.6:2323/uspp_2/client/#') style='cursor:hand'>LN-DL-LHL-HSS-1.EPC</a>", 
+                "deviceip": "100.66.23.6", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.6:2323/uspp_2/client/#') style='cursor:hand'>LN-DL-LHL-AAA-1.EPC</a>", 
+                "deviceip": "100.66.23.6", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.6:2323/uspp_1/client/#') style='cursor:hand'>LN-SY-HN-AAA-1.EPC</a>", 
+                "deviceip": "100.66.20.6", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.12:2323/rcp_42/client/#') style='cursor:hand'>LN-DL-LHL-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.23.12", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.12:2323/rcp_41/client/#') style='cursor:hand'>LN-SY-HN-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.20.12", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.23.52:2323/dsc_82/client/') style='cursor:hand'>LN-DL-LHL-DRA-02.EPC</a>", 
+                "deviceip": "100.66.23.52", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-DL-LHL-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.20.52:2323/dsc_81/client/') style='cursor:hand'>LN-SY-HN-DRA-01.EPC</a>", 
+                "deviceip": "100.66.20.52", 
+                "nodename": "辽宁", 
+                "devicename1": "LN-SY-HN-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "天津", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "天津", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.6.6:2323/uspp_1/client/#?') style='cursor:hand'>TJ-TJ-DS-AAA-1.EPC</a>", 
+                "deviceip": "100.66.6.6", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-DS-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.7.6:2323/uspp_2/client/#?') style='cursor:hand'>TJ-TJ-TB-AAA-2.EPC</a>", 
+                "deviceip": "100.66.7.6", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-TB-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.6.9:2323/mme_31/client/#?') style='cursor:hand'>TJ-TJ-DS-MME-1.EPC</a>", 
+                "deviceip": "100.66.6.9", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-DS-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.7.9:2323/mme_32/client/#?') style='cursor:hand'>TJ-TJ-TB-MME-2.EPC</a>", 
+                "deviceip": "100.66.7.9", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-TB-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.6.29:2323/cg_51/client/#') style='cursor:hand'>TJ-TJ-DS-CG-1.EPC</a>", 
+                "deviceip": "100.66.6.29", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-DS-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.7.29:2323/cg_52/client/#') style='cursor:hand'>TJ-TJ-TB-CG-2.EPC</a>", 
+                "deviceip": "100.66.7.29", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-TB-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.7.6:2323/uspp_2/client/#?') style='cursor:hand'>TJ-TJ-TB-HSS-2.EPC</a>", 
+                "deviceip": "100.66.7.6", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-TB-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.6.6:2323/uspp_1/client/#?') style='cursor:hand'>TJ-TJ-DS-HSS-1.EPC</a>", 
+                "deviceip": "100.66.6.6", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-DS-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.6.12:2323/rcp_41/client/#?') style='cursor:hand'>TJ-TJ-DS-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.6.12", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-DS-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.7.12:2323/rcp_42/client/#') style='cursor:hand'>TJ-TJ-TB-PCRF-2.EPC</a>", 
+                "deviceip": "100.66.7.12", 
+                "nodename": "天津", 
+                "devicename1": "TJ-TJ-TB-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }
+        ]
+    }, 
+    {
+        "devicename": "重庆", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "重庆", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.134:2323/uspp_2/client/#') style='cursor:hand'>CQ-CQ-XPF-HSS-1.EPC</a>", 
+                "deviceip": "10.231.198.134", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.6:2323/uspp_1/client/#') style='cursor:hand'>CQ-CQ-DP-HSS-1.EPC</a>", 
+                "deviceip": "10.231.198.6", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.140:2323/rcp_42/client/#') style='cursor:hand'>CQ-CQ-XPF-PCRF-1.EPC</a>", 
+                "deviceip": "10.231.198.140", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.12:2323/rcp_41/client/#') style='cursor:hand'>CQ-CQ-DP-PCRF-1.EPC</a>", 
+                "deviceip": "10.231.198.12", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.157:2323/cg_52/client/#') style='cursor:hand'>CQ-CQ-XPF-CG-1.EPC</a>", 
+                "deviceip": "10.231.198.157", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.29:2323/cg_51/client/#') style='cursor:hand'>CQ-CQ-DP-CG-1.EPC</a>", 
+                "deviceip": "10.231.198.29", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.137:2323/mme_32/client/#') style='cursor:hand'>CQ-CQ-XPF-MME-1.EPC</a>", 
+                "deviceip": "10.231.198.137", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.9:2323/mme_31/client/#') style='cursor:hand'>CQ-CQ-DP-MME-1.EPC</a>", 
+                "deviceip": "10.231.198.9", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.6:2323/uspp_1/client/#') style='cursor:hand'>CQ-CQ-DP-AAA-1.EPC</a>", 
+                "deviceip": "10.231.198.6", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.134:2323/uspp_2/client/#') style='cursor:hand'>CQ-CQ-XPF-AAA-1.EPC</a>", 
+                "deviceip": "10.231.198.134", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.59:2323/dsc_85/client/') style='cursor:hand'>CQ-CQ-DP-DRA-01.EPC</a>", 
+                "deviceip": "10.231.198.59", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-DP-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.198.184:2323/dsc_86/client/') style='cursor:hand'>CQ-CQ-XPF-DRA-02.EPC</a>", 
+                "deviceip": "10.231.198.184", 
+                "nodename": "重庆", 
+                "devicename1": "CQ-CQ-XPF-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "广西", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "广西", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.9:2323/mme_32/client/#') style='cursor:hand'>GX-NN-MZ-MME-1.EPC</a>", 
+                "deviceip": "10.231.179.9", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-MZ-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.137:2323/mme_31/client/#') style='cursor:hand'>GX-NN-LD-MME-1.EPC</a>", 
+                "deviceip": "10.231.179.137", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-LD-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.134:2323/uspp_1/client/#') style='cursor:hand'>GX-NN-LD-HSS-1.EPC</a>", 
+                "deviceip": "10.231.179.134", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-LD-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.6:2323/uspp_2/client/#') style='cursor:hand'>GX-NN-MZ-HSS-1.EPC</a>", 
+                "deviceip": "10.231.179.6", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-MZ-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.134:2323/uspp_1/client/#') style='cursor:hand'>GX-NN-LD-AAA-1.EPC</a>", 
+                "deviceip": "10.231.179.134", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-LD-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.6:2323/uspp_2/client/#') style='cursor:hand'>GX-NN-MZ-AAA-1.EPC</a>", 
+                "deviceip": "10.231.179.6", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-MZ-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.157:2323/cg_51/client/#') style='cursor:hand'>GX-NN-LD-CG-1.EPC</a>", 
+                "deviceip": "10.231.179.157", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-LD-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.29:2323/cg_52/client/#') style='cursor:hand'>GX-NN-MZ-CG-1.EPC</a>", 
+                "deviceip": "10.231.179.29", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-MZ-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.180:2323/dsc_81/client/') style='cursor:hand'>GX-NN-LD-DRA01.EPC</a>", 
+                "deviceip": "10.231.179.180", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-LD-DRA01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://10.231.179.52:2323/dsc_82/client/') style='cursor:hand'>GX-NN-MZ-DRA02.EPC</a>", 
+                "deviceip": "10.231.179.52", 
+                "nodename": "广西", 
+                "devicename1": "GX-NN-MZ-DRA02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "四川", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "四川", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.195:2323/uspp_2/client/#') style='cursor:hand'>SC-CD-XH-AAA-2.EPC</a>", 
+                "deviceip": "100.66.85.195", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.195:2323/uspp_1/client/#') style='cursor:hand'>SC-CD-BS-AAA-1.EPC</a>", 
+                "deviceip": "100.66.84.195", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.195:2323/uspp_1/client/#') style='cursor:hand'>SC-CD-BS-HSS-1.EPC</a>", 
+                "deviceip": "100.66.84.195", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.195:2323/uspp_2/client/#') style='cursor:hand'>SC-CD-XH-HSS-2.EPC</a>", 
+                "deviceip": "100.66.85.195", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.198:2323/mme_31/client/#') style='cursor:hand'>SC-CD-BS-MME-1.EPC</a>", 
+                "deviceip": "100.66.84.198", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.198:2323/mme_32/client/#') style='cursor:hand'>SC-CD-XH-MME-2.EPC</a>", 
+                "deviceip": "100.66.85.198", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.168:2323/mme_33/client/#') style='cursor:hand'>SC-BS-MME-3.EPC</a>", 
+                "deviceip": "100.66.84.168", 
+                "nodename": "四川", 
+                "devicename1": "SC-BS-MME-3.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.168:2323/mme_34/client/#') style='cursor:hand'>SC-XH-MME-4.EPC</a>", 
+                "deviceip": "100.66.85.168", 
+                "nodename": "四川", 
+                "devicename1": "SC-XH-MME-4.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.172:2323/mme_35/client/#') style='cursor:hand'>SC-BS-MME-5.EPC</a>", 
+                "deviceip": "100.66.84.172", 
+                "nodename": "四川", 
+                "devicename1": "SC-BS-MME-5.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.172:2323/mme_36/client/#') style='cursor:hand'>SC-XH-MME-6.EPC</a>", 
+                "deviceip": "100.66.85.172", 
+                "nodename": "四川", 
+                "devicename1": "SC-XH-MME-6.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.201:2323/rcp_42/client/#') style='cursor:hand'>SC-CD-XH-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.85.201", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.201:2323/rcp_41/client/#') style='cursor:hand'>SC-CD-BS-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.84.201", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.218:2323/cg_52/client/#') style='cursor:hand'>SC-CD-XH-CG-2.EPC</a>", 
+                "deviceip": "100.66.85.218", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.218:2323/cg_51/client/#') style='cursor:hand'>SC-CD-BS-CG-1.EPC</a>", 
+                "deviceip": "100.66.84.218", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.84.167:2323/dsc_83/client/') style='cursor:hand'>SC-CD-BS-DRA-01.EPC</a>", 
+                "deviceip": "100.66.84.167", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-BS-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.85.167:2323/dsc_84/client/') style='cursor:hand'>SC-CD-XH-DRA-02.EPC</a>", 
+                "deviceip": "100.66.85.167", 
+                "nodename": "四川", 
+                "devicename1": "SC-CD-XH-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "海南", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "海南", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.155:2323/mme_31/client/#') style='cursor:hand'>HI-HK-SN-MME-1.EPC</a>", 
+                "deviceip": "100.66.76.155", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-SN-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.155:2323/mme_32/client/#') style='cursor:hand'>HI-HK-HF-MME-1.EPC</a>", 
+                "deviceip": "100.66.77.155", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-HF-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.67:2323/uspp_2/client/#') style='cursor:hand'>HI-HK-HF-AAA-1.EPC</a>", 
+                "deviceip": "100.66.77.67", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-HF-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.67:2323/uspp_1/client/#') style='cursor:hand'>HI-HK-SN-AAA-1.EPC</a>", 
+                "deviceip": "100.66.76.67", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-SN-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.67:2323/uspp_2/client/#') style='cursor:hand'>HI-HK-HF-HSS-1.EPC</a>", 
+                "deviceip": "100.66.77.67", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-HF-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.67:2323/uspp_1/client/#') style='cursor:hand'>HI-HK-SN-HSS-1.EPC</a>", 
+                "deviceip": "100.66.76.67", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-SN-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.99:2323/cg_52/client/#') style='cursor:hand'>HI-HK-HF-CG-1.EPC</a>", 
+                "deviceip": "100.66.77.99", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-HF-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.99:2323/cg_51/client/#') style='cursor:hand'>HI-HK-SN-CG-1.EPC</a>", 
+                "deviceip": "100.66.76.99", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-SN-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.91:2323/rcp_41/client/#') style='cursor:hand'>HI-HK-SN-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.76.91", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-SN-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.91:2323/rcp_42/client/#') style='cursor:hand'>HI-HK-HF-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.77.91", 
+                "nodename": "海南", 
+                "devicename1": "HI-HK-HF-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.76.60:2323/dsc_81/client/') style='cursor:hand'>HI_HK-SN-DRA-01.EPC</a>", 
+                "deviceip": "100.66.76.60", 
+                "nodename": "海南", 
+                "devicename1": "HI_HK-SN-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.77.60:2323/dsc_82/client/') style='cursor:hand'>HI_HK-HF-DRA-02.EPC</a>", 
+                "deviceip": "100.66.77.60", 
+                "nodename": "海南", 
+                "devicename1": "HI_HK-HF-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }, 
+    {
+        "devicename": "黑龙江", 
+        "deviceip": "", 
+        "devicemodel": "", 
+        "nodename": "黑龙江", 
+        "children": [
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.134:2323/uspp_1/client/#') style='cursor:hand'>HL-HEB-QL1-AAA-1.EPC</a>", 
+                "deviceip": "100.66.28.134", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-AAA-1.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.134:2323/uspp_2/client/#') style='cursor:hand'>HL-HEB-QL2-AAA-2.EPC</a>", 
+                "deviceip": "100.66.29.134", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-AAA-2.EPC", 
+                "devicemodel": "AAA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.134:2323/uspp_1/client/#') style='cursor:hand'>HL-HEB-QL1-HSS-1.EPC</a>", 
+                "deviceip": "100.66.28.134", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-HSS-1.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.134:2323/uspp_2/client/#') style='cursor:hand'>HL-HEB-QL2-HSS-2.EPC</a>", 
+                "deviceip": "100.66.29.134", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-HSS-2.EPC", 
+                "devicemodel": "HSS"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.137:2323/mme_31/client/#') style='cursor:hand'>HL-HEB-QL1-MME-1.EPC</a>", 
+                "deviceip": "100.66.28.137", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-MME-1.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.137:2323/mme_32/client/#') style='cursor:hand'>HL-HEB-QL2-MME-2.EPC</a>", 
+                "deviceip": "100.66.29.137", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-MME-2.EPC", 
+                "devicemodel": "MME"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.140:2323/rcp_41/client/#') style='cursor:hand'>HL-HEB-QL1-PCRF-1.EPC</a>", 
+                "deviceip": "100.66.28.140", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-PCRF-1.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.140:2323/rcp_42/client/#') style='cursor:hand'>HL-HEB-QL2-PCRF-2.EPC</a>", 
+                "deviceip": "100.66.29.140", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-PCRF-2.EPC", 
+                "devicemodel": "PCRF"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.157:2323/cg_52/client/#') style='cursor:hand'>HL-HEB-QL2-CG-2.EPC</a>", 
+                "deviceip": "100.66.29.157", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-CG-2.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.157:2323/cg_51/client/#') style='cursor:hand'>HL-HEB-QL1-CG-1.EPC</a>", 
+                "deviceip": "100.66.28.157", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-CG-1.EPC", 
+                "devicemodel": "CG"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.28.190:2323/dsc_71/client/#') style='cursor:hand'>HL-HEB-QL1-DRA-01.EPC</a>", 
+                "deviceip": "100.66.28.190", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL1-DRA-01.EPC", 
+                "devicemodel": "DRA"
+            }, 
+            {
+                "devicename": "<a title='打开设备' onclick=window.open('http://100.66.29.190:2323/dsc_72/client/#') style='cursor:hand'>HL-HEB-QL2-DRA-02.EPC</a>", 
+                "deviceip": "100.66.29.190", 
+                "nodename": "黑龙江", 
+                "devicename1": "HL-HEB-QL2-DRA-02.EPC", 
+                "devicemodel": "DRA"
+            }
+        ]
+    }
+]
